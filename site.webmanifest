@@ -1,0 +1,13 @@
+{
+  "name": "NectrCRM",
+  "short_name": "NectrCRM",
+  "description": "Marketing software configured around your marketing plan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F7F2",
+  "theme_color": "#F2A01B",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
